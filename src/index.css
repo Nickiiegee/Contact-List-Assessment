@@ -1,0 +1,16 @@
+body {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 0;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgb(68, 147, 250) 0%, rgb(5, 0, 97) 60%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
